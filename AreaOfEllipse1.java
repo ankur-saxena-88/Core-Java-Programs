@@ -1,8 +1,6 @@
 /*
 Java Program To Calculate And Display The Area Of A Ellipse.
 
-In this tutorial we will learn how to create a Java Program to Calculate the Area of a Ellipse.
-
 Area of an ellipse: The formula to find the area of an ellipse is given below:
 Area = pi * a * b
 
