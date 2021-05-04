@@ -1,3 +1,5 @@
+// program start
+
 class Ttx2
 {
     public void m1()
@@ -19,3 +21,17 @@ public class TestJava2
         obj.m1();
     }
 }
+
+// program end
+
+// save this file as 'TestJava2.java'
+// compile: $ javac TestJava2.java [Hit Enter]
+// execute: $ java TestJava2 [Hit Enter]
+
+/*
+output:
+
+Hello, Java World!
+
+I'm coming back to the race.
+*/
