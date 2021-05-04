@@ -9,7 +9,7 @@ class Ttx2
         System.out.println(str);
     }
 }
-public class TestJava2
+public class HelloWorld2
 {
     public static void main (String[] args)
     {
@@ -24,9 +24,9 @@ public class TestJava2
 
 // program end
 
-// save this file as 'TestJava2.java'
-// compile: $ javac TestJava2.java [Hit Enter]
-// execute: $ java TestJava2 [Hit Enter]
+// save this file as 'HelloWorld2.java'
+// compile: $ javac HelloWorld2.java [Hit Enter]
+// execute: $ java HelloWorld2 [Hit Enter]
 
 /*
 output:
